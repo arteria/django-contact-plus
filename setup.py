@@ -9,6 +9,5 @@ setup(
     author_email="admin@arteria.ch",
     packages=find_packages(),
     include_package_data=True,
- 
-
+    description='Core of cmsplugin_contact_plus extracted as a standalone Django app',
 )
