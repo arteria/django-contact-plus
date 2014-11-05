@@ -5,7 +5,7 @@ from setuptools import find_packages
 
 setup(
     name="django-contact-plus",
-    version="0.0.1",
+    version="0.0.2",
     author_email="admin@arteria.ch",
     packages=find_packages(),
     include_package_data=True,
